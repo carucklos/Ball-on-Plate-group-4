@@ -7,7 +7,7 @@
 ## **V.** *Conclusion*
 ## **VI.** *Appendix*
 ## **VII.** *References*
-1. [1] Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with
+- [1] Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with
 experiments. Cham, Switzerland: Springer, 2019.
-2. [2] Nise, Norman S. Control Systems Engineering. Hoboken, NJ: Wiley. 2011.
+- [2] Nise, Norman S. Control Systems Engineering. Hoboken, NJ: Wiley. 2011.
 Quanser. Two DOF Ball Balancer. Quanser Incorporated. 2013
