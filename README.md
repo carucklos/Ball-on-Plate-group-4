@@ -1,4 +1,4 @@
-# **Ball-on-Plate-group-4**
+# **Ball on Plate Group-4**
 ---
 ## **I.** Introduction
 ## **II.** Modeling
