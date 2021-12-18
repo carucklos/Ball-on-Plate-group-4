@@ -18,6 +18,14 @@ After performing the design project, we not only learned the basics of balancing
 
 ## **VI.** *Appendix*
 **Appendix A: MATLAB Code**
+```
+{
+ Insert Code Here
+ .
+ .
+ .
+}
+```
 
 ## **VII.** *References*
 - [1] Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with
