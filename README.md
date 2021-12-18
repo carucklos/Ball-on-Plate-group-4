@@ -1,9 +1,9 @@
 # **Ball-on-Plate-group-4**
 ---
-## Introduction
-## Modeling
-## Sensor Calibration
-## Controller Design and Simulations
-## Conclusion
-## Appendix
-## References
+## **I.** Introduction
+## **II.** Modeling
+## **III.** Sensor Calibration
+## **IV.** Controller Design and Simulations
+## **V.** Conclusion
+## **VI.** Appendix
+## **VII.** References
