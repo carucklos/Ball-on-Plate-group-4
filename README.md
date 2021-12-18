@@ -3,6 +3,7 @@ MECA 482 Control System Engineering Project
 ---
 ## **I.** *Introduction*
 The ball and plate is a system with two degrees of freedom that must recognize the motion of the ball and adjust its orientation to ensure that the ball stays in the middle of the plate. This is done by using two servo motors attached to the bottom of the plate to control the x-y-z position of the ball. The position of the ball is measured by an overhead vision sensor that tracks the position of the ball in real time and provides live video feedback. A mathematical model of the ball and plate system and a model of the PD system was integrated into Matlab/Simulink to run Coppelia Sim and demonstrate a simulation of the entire system. The PD controller measures the error in the system and considers the position and velocity of the ball.
+![Free Body Diagram](/BnP.jpg)
 
 ## **II.** *Modeling*
 The system shown in Figure 1 has two servo motors that control the x-y-z motion of the
