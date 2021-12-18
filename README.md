@@ -2,7 +2,7 @@
 ---
 ## **I.** *Introduction*
 ## **II.** *Modeling*
-![alt text](BnP.jpg)
+![Free Body Diagram of the Ball and Plate System](/ThisPC/Desktop/BnP.jpg)
 
 ## **III.** *Sensor Calibration*
 ## **IV.** *Controller Design and Simulations*
