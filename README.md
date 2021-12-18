@@ -6,6 +6,8 @@
 ## **IV.** *Controller Design and Simulations*
 ## **V.** *Conclusion*
 ## **VI.** *Appendix*
+**Appendix A: MATLAB Code**
+
 ## **VII.** *References*
 - [1] Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with
 experiments. Cham, Switzerland: Springer, 2019.
