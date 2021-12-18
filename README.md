@@ -2,6 +2,8 @@
 ---
 ## **I.** *Introduction*
 ## **II.** *Modeling*
+![alt text](BnP.jpg)
+
 ## **III.** *Sensor Calibration*
 ## **IV.** *Controller Design and Simulations*
 ## **V.** *Conclusion*
